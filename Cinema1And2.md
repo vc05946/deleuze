@@ -21,7 +21,7 @@ Cinema 2: The Time-Image (1985) - post-war cinema, which is inorganic, exposed t
 
 This is the first sentence in Cinema 1. 
 
-Cinema 1 begins with the Lumière brothers, who invented the Cinematographe in 1895. One year later, Henri Bergson published Matter and Memory, followed by an analysis of montage, including David Wark Griffith and Sergejs Eizenšteins, and concluded with the impact of WW2 on cinema.
+Cinema 1 begins with the Lumière brothers, who invented the Cinematographe in 1895. Cinema 1 then mentioned Matter and Memory, published by Henri Bergson one year later, followed by an analysis of montage, including David Wark Griffith and Sergejs Eizenšteins, and concluded with the impact of WW2 on cinema.
 
 ### 1-2 Image and Movement in Bergson
 
