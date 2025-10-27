@@ -3,7 +3,7 @@ Some notes about Deleuze studies.
 
 <img width="250" height="357" alt="image" src="https://github.com/user-attachments/assets/8ddaeb6c-c4fb-4544-876e-8a0de50f9438" /> <img width="357" height="357" alt="image" src="https://github.com/user-attachments/assets/3537ebe6-76b7-4d9c-aa7e-7f82bd1a9872" />
 
-I am actually a Lacanian, but I will still make an effort to study Deleuze, as it is an opponent of Lacan.
+I am actually a Lacanian, but I will still make an effort to study Deleuze, as it (he should be, but anyway) is an opponent of Lacan.
 
 Firstly, I will start studying Cinema 1: The Movement Image and Cinema 2: The Time-Image, as one of my interests is cinema theories or studies. 
 To get started, I will read 福尾匠 (a postgraduate in 横浜国立大学)　『眼がスクリーンになるとき：ゼロから読むドゥルーズ『シネマ』』， a wonderful introduction to these two volumes.
