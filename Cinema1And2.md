@@ -9,12 +9,19 @@ The viewer of cinema is a spider.
 From here, it is the starting point for the cinema, straight to philosophy, and the one from philosophy straight to the cinema.
 
 Cinema 1: The Movement Image (1983) - pre-war cinema, which is organic, aiming at the totality;
+
 Cinema 2: The Time-Image (1985) - post-war cinema, which is inorganic, exposed to fragmentation;
 
 
 ## Chapter 1: Film and Philosophy, Bergson and Deleuze
 
 ### 1-1 Cinema and Film
+
+これは映画史の研究ではない - This is not a cinema history study.
+
+This is the first sentence in Cinema 1. 
+
+Cinema 1 starts with the Lumière brothers, who invented Cinématographe in 1895. One year later, Henri Bergson published Matter and Memory, followed by the analysis of montage about David Wark Griffith, and Sergejs Eizenšteins, and ended with the WW2 effect on cinema.
 
 ### 1-2 Image and Movement in Bergson
 
